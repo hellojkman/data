@@ -1,0 +1,20 @@
+{
+  "name": "living_weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "date-utils": "^1.2.21",
+    "express": "^4.17.2",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.0",
+    "morgan": "^1.10.0",
+    "request": "^2.88.2"
+  }
+}
